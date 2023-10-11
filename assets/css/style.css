@@ -1504,6 +1504,7 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     width: 120px;
+	border-radius: inherit;
   }
 
   .info-content .name {
